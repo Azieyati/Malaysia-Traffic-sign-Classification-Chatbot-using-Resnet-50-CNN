@@ -36,8 +36,8 @@ This project is focusing on helping the newbie driver to better understand the m
 
 ![image](https://github.com/Azieyati/Malaysia-Traffic-sign-Classification-Chatbot-using-Resnet-50-CNN/assets/156404474/a2f4466f-1daa-4a3b-833d-c04ba4d3836e)
 
-Accuracy = correct_predictions / total_samples
-Accuracy = 95/95*100 = 100%
+#### Accuracy = correct_predictions / total_samples
+#### Accuracy = 95/95*100 = 100%
 
 
 ## Comparison other CNN model
@@ -54,26 +54,26 @@ Accuracy = 95/95*100 = 100%
 - In summary, the DRIBIE chatbot, powered by the Resnet-50 deep learning model, has achieved an incredible 100% accuracy rate across near and far objects. This remarkable success demonstrates the accuracy and versatility of the model, laying the foundation for exciting future applications.
 
 
-+----------------------------------------------------------------------+
-| Objectives                    |   Conclusions                        |
-+-------------------------------+--------------------------------------+
-| To identify the requirements  | This project has successfully met the| 
-| for developing a road sign    | objective of identifying all the     |
-| recognition chatbot.          | specific requirements for developing | 
-|                               | a road sign recognition chatbot.     |
-+-------------------------------+--------------------------------------+
-| To develop a road sign        | This project has successfully        | 
-| recognition chatbot for       | achieved the second objective of     |
-| Malaysia road signs.          | successfully developing a road sign  | 
-|                               | road signs by exceeding our target   |
-|                               | with an accuracy rate of over 90%.   |
-+-------------------------------+--------------------------------------+
-| To test the performance of    | This project have successfully       | 
-| the chatbot using quantitative| accomplished our objective of        |
-| and qualitative methods.      | assessing the chatbot's performance  | 
-|                               | through a thorough evaluation that   |
-|                               | combines quantitative and qualitative|
-|                               | methods.                             |
-+-------------------------------+--------------------------------------+
+#### +----------------------------------------------------------------------+
+#### | Objectives                    |   Conclusions                        |
+#### +-------------------------------+--------------------------------------+
+#### | To identify the requirements  | This project has successfully met the| 
+#### | for developing a road sign    | objective of identifying all the     |
+#### | recognition chatbot.          | specific requirements for developing | 
+#### |                               | a road sign recognition chatbot.     |
+#### +-------------------------------+--------------------------------------+
+#### | To develop a road sign        | This project has successfully        | 
+#### | recognition chatbot for       | achieved the second objective of     |
+#### | Malaysia road signs.          | successfully developing a road sign  | 
+#### |                               | road signs by exceeding our target   |
+#### |                               | with an accuracy rate of over 90%.   |
+#### +-------------------------------+--------------------------------------+
+#### | To test the performance of    | This project have successfully       | 
+#### | the chatbot using quantitative| accomplished our objective of        |
+#### | and qualitative methods.      | assessing the chatbot's performance  | 
+#### |                               | through a thorough evaluation that   |
+#### |                               | combines quantitative and qualitative|
+#### |                               | methods.                             |
+#### +-------------------------------+--------------------------------------+
 
 
